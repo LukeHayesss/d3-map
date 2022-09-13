@@ -1,0 +1,11 @@
+.path {
+    fill: rgb(132, 0, 255);
+    stroke: cornsilk;
+    stroke-width: 1px;
+}
+
+.path:hover {
+    cursor: pointer;
+    fill: black;
+    fill-opacity: 0.5;
+}
